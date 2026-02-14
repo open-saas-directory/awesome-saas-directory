@@ -1,4 +1,4 @@
-# 🚀 Awesome Open Source SaaS Projects
+# 🚀 Awesome Open Source SaaS Alternatives
 
 A curated list of production-ready open source SaaS applications and platforms. All projects are actively maintained and suitable for self-hosting or development.
 
