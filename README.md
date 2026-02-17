@@ -255,6 +255,13 @@ An open-source customer engagement platform that enables businesses to communica
 
 An open-source surveying platform that helps teams gather user feedback through customizable surveys across multiple channels, enabling better user experience insights.
 
+### [Quackback](https://github.com/QuackbackIO/quackback)
+![Stars](https://img.shields.io/github/stars/QuackbackIO/quackback?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/153686064?v=4" width="50" height="50">
+
+An open source feedback platform with voting boards, public roadmaps, changelogs, and a built-in MCP server for AI agents. Alternative to Canny and UserVoice.
+
 ## Productivity & Project Management
 
 ### [Cal.com](https://github.com/calcom/cal.com)
