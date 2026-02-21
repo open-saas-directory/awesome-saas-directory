@@ -292,6 +292,14 @@ A robust framework for developing business applications like CRM systems, offeri
 
 An AI-powered social media scheduling platform that helps businesses manage posts, build audiences, and optimize content across multiple social media platforms.
 
+### [GrantFlow](https://github.com/WabiSabikk/grantflow)
+![Stars](https://img.shields.io/github/stars/WabiSabikk/grantflow?style=social)
+
+<img src="https://grantflow-zeta.vercel.app/icon.svg" width="50" height="50">
+
+An open-source grant lifecycle manager for small nonprofits. Provides a Kanban grant pipeline, deadline tracking with email reminders, discovery of 146K+ funding opportunities (Grants.gov + ProPublica foundations), funder CRM, budget tracking for restricted funds, and CSV import/export. A free, self-hostable alternative to GrantHub.
+
+
 ## Desktop Applications
 
 ### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
