@@ -299,6 +299,13 @@ A robust framework for developing business applications like CRM systems, offeri
 
 An AI-powered social media scheduling platform that helps businesses manage posts, build audiences, and optimize content across multiple social media platforms.
 
+### [CiteMe](https://github.com/danielnichiata96/citeme)
+![Stars](https://img.shields.io/github/stars/danielnichiata96/citeme?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/186820796?v=4" width="50" height="50">
+
+An AI-powered academic citation generator that searches 11+ databases (OpenAlex, PubMed, Semantic Scholar) and formats references in 40+ citation styles. Available as a web app, Chrome extension, Google Docs add-on, and Word add-in.
+
 ## Desktop Applications
 
 ### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
