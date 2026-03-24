@@ -188,6 +188,11 @@ An open-source, offline AI assistant that enables users to run language models l
 
 ## Developer Tools
 
+### [LaunchKit](https://github.com/huangyongshan46-a11y/launchkit-saas)
+AI-native SaaS starter kit with Next.js 16, Auth.js v5, Stripe, OpenAI streaming chat, Prisma, and Resend.
+- **License:** MIT
+- **Stack:** Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL
+
 ### [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
 ![Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social)
 
