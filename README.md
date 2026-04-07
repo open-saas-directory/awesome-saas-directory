@@ -186,6 +186,10 @@ An open-source AI chat platform that integrates multiple AI models, offering enh
 
 An open-source, offline AI assistant that enables users to run language models locally with full privacy and control across multiple hardware platforms.
 
+### [RemoteOpenClaw](https://remoteopenclaw.com)
+
+An open marketplace for discovering, sharing, and distributing AI skills and personas built on the open-source OpenClaw standard.
+
 ## Developer Tools
 
 ### [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
