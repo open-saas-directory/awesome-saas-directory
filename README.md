@@ -217,6 +217,12 @@ A lightning-fast, developer-friendly search engine that enables seamless, intuit
 
 A developer platform that provides on-demand, pre-configured cloud development environments that automatically integrate tools, libraries, and dependencies for software creation.
 
+### [TinyTools](https://github.com/alfredoautomatizaloconia-cloud/tinytools)
+![Stars](https://img.shields.io/github/stars/alfredoautomatizaloconia-cloud/tinytools?style=social)
+
+A growing collection of free, single-purpose web utilities, all browser-based with no signup required. Includes domain name generator, OG image generator, AI background remover (ONNX/WASM, runs locally in the browser — no uploads), favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator (EU AI Act compliant), and AI robots.txt generator. Self-hostable. Live demo at https://tinytools-smoky.vercel.app/.
+
+
 ## Team Collaboration
 
 ### [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
