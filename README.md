@@ -277,6 +277,11 @@ An open source feedback platform with voting boards, public roadmaps, changelogs
 
 An open-source CRM with native n8n workflow automation, built for small B2B teams. Self-hostable via Docker. Alternative to Pipedrive and HubSpot. Built with TypeScript (Next.js, NestJS, PostgreSQL).
 
+### [Beton Inspector](https://github.com/getbeton/inspector)
+![Stars](https://img.shields.io/github/stars/getbeton/inspector?style=social)
+
+Open-source revenue intelligence. Detects buying signals from PostHog product-usage data and CRM, scores accounts, and routes the warmest leads to sales reps. Self-hostable via Docker. Alternative to 6sense and Clearbit Reveal. Built with TypeScript (Next.js, Supabase/PostgreSQL).
+
 ## Productivity & Project Management
 
 ### [Cal.com](https://github.com/calcom/cal.com)
