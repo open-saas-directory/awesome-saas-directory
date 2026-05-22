@@ -280,7 +280,7 @@ An open-source CRM with native n8n workflow automation, built for small B2B team
 ### [Beton Inspector](https://github.com/getbeton/inspector)
 ![Stars](https://img.shields.io/github/stars/getbeton/inspector?style=social)
 
-Open-source revenue intelligence. Detects buying signals from PostHog product-usage data and CRM, scores accounts, and routes the warmest leads to sales reps. Self-hostable via Docker. Alternative to 6sense and Clearbit Reveal. Built with TypeScript (Next.js, Supabase/PostgreSQL).
+Open-source revenue intelligence. Detects buying signals from PostHog product-usage data and CRM, scores accounts, and routes the warmest leads to sales reps. Self-hostable via Docker. Alternative to Pocus and Common Room. Built with TypeScript (Next.js, Supabase/PostgreSQL).
 
 ## Productivity & Project Management
 
