@@ -85,6 +85,13 @@ An open-source real-time API and dashboard for managing SQL database content, pr
 
 A Next.js native, open-source headless CMS that installs directly in your existing app folder, offering a flexible and powerful content management solution.
 
+### [UnfoldCMS](https://github.com/hpakdaman/unfoldcms)
+![Stars](https://img.shields.io/github/stars/hpakdaman/unfoldcms?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/hpakdaman?v=4" width="50" height="50">
+
+A self-hosted CMS built with Laravel 12, React 19, shadcn/ui, and Tailwind v4, supporting headless mode for Next.js, Astro, SvelteKit, and Nuxt. Ships with a REST API v1 (42 endpoints), HMAC-signed webhooks, and a visual admin panel.
+
 ## Analytics & Monitoring
 
 ### [Netdata](https://github.com/netdata/netdata)
