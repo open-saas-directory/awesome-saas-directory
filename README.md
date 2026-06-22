@@ -224,6 +224,13 @@ A lightning-fast, developer-friendly search engine that enables seamless, intuit
 
 A developer platform that provides on-demand, pre-configured cloud development environments that automatically integrate tools, libraries, and dependencies for software creation.
 
+### [HookSniff](https://github.com/servetarslan02/HookSniff)
+![Stars](https://img.shields.io/github/stars/servetarslan02/HookSniff?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/274024482?v=4" width="50" height="50">
+
+An open-source webhook delivery platform built in Rust and Next.js. Handles sending, receiving, retrying, and monitoring webhooks with Standard Webhooks compliance, automatic retries, dead letter queue, FIFO ordering, smart routing, and real-time analytics dashboard.
+
 ## Team Collaboration
 
 ### [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
