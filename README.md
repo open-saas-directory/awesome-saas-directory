@@ -194,6 +194,13 @@ An open-source, offline AI assistant that enables users to run language models l
 
 An open-source context infrastructure for AI agents. It connects any source, versions every change Git-style, and scopes access per agent.
 
+### [Vibes DIY](https://github.com/VibesDIY/vibes.diy)
+![Stars](https://img.shields.io/github/stars/VibesDIY/vibes.diy?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/207939963?v=4" width="50" height="50">
+
+[Open-source](https://github.com/VibesDIY/vibes.diy) (Apache-2.0) AI app builder: describe an app in plain English and get a real, live web app at its own URL — shareable, remixable, and collaborative. Runs on Cloudflare Workers; clone and deploy to your own account.
+
 ## Developer Tools
 
 ### [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
