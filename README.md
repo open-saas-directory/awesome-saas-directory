@@ -100,6 +100,7 @@ An open-source observability platform for real-time infrastructure monitoring, p
 <img src="https://avatars.githubusercontent.com/u/105618662?v=4" width="50" height="50">
 
 An open-source, privacy-focused web analytics platform that provides simple and fast website traffic insights as an alternative to Google Analytics.
+- [Mautic](https://www.mautic.org) - Open-source, self-hostable marketing automation platform for campaigns, segmentation, and customer journeys.
 
 ### [PostHog](https://github.com/PostHog/posthog)
 ![Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social)
