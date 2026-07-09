@@ -224,6 +224,11 @@ A lightning-fast, developer-friendly search engine that enables seamless, intuit
 
 A developer platform that provides on-demand, pre-configured cloud development environments that automatically integrate tools, libraries, and dependencies for software creation.
 
+### [Vernclaw Connect CLI](https://github.com/hekmon8/vernclaw-connect-cli)
+![Stars](https://img.shields.io/github/stars/hekmon8/vernclaw-connect-cli?style=social)
+
+An open-source, JSON-first connector CLI for AI agents. It bundles English skill docs and managed connectors for SEO, X, YouTube, Product Hunt, image generation, and website intelligence.
+
 ## Team Collaboration
 
 ### [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
