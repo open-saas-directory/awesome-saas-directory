@@ -194,6 +194,13 @@ An open-source, offline AI assistant that enables users to run language models l
 
 An open-source context infrastructure for AI agents. It connects any source, versions every change Git-style, and scopes access per agent.
 
+### [Aural](https://github.com/1146345502/aural-oss)
+![Stars](https://img.shields.io/github/stars/1146345502/aural-oss?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/32186766?v=4" width="50" height="50">
+
+An open-source, self-hostable AI interview platform for voice, chat, and video interviews with adaptive follow-ups, coding assessments, and automated reports.
+
 ## Developer Tools
 
 ### [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
