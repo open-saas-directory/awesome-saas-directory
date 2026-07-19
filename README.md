@@ -284,6 +284,11 @@ An open source feedback platform with voting boards, public roadmaps, changelogs
 
 An open-source CRM with native n8n workflow automation, built for small B2B teams. Self-hostable via Docker. Alternative to Pipedrive and HubSpot. Built with TypeScript (Next.js, NestJS, PostgreSQL).
 
+### [Warpdrive](https://github.com/sneg55/warpdrive)
+![Stars](https://img.shields.io/github/stars/sneg55/warpdrive?style=social)
+
+A self-hosted CRM for sales and business development: pipeline management, deal workspace, contacts and organizations, two-way Gmail sync, and notifications. Alternative to Pipedrive. Built with TypeScript (Next.js, tRPC, Drizzle, PostgreSQL).
+
 ## Productivity & Project Management
 
 ### [Cal.com](https://github.com/calcom/cal.com)
