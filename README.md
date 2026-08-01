@@ -150,6 +150,13 @@ An open-source session replay platform that helps developers understand user int
 
 An open-source web analytics platform that provides full data ownership, privacy, and powerful tracking capabilities for websites.
 
+### [Talivia](https://github.com/talivia-group/talivia)
+![Stars](https://img.shields.io/github/stars/talivia-group/talivia?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/309602203?v=4" width="50" height="50">
+
+An open-source, self-hosted revenue-first web and product analytics platform with traffic attribution, funnels, events, session replay, Web Vitals, and payment integrations. Talivia is also an open-source alternative to DataFast.
+
 ## AI & Machine Learning
 
 ### [Open WebUI](https://github.com/open-webui/open-webui)
