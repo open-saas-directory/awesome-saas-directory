@@ -279,6 +279,13 @@ An open source feedback platform with voting boards, public roadmaps, changelogs
 
 ## CRM & Sales
 
+### [QuoteChime Free](https://github.com/eswain89-web/quotechime-free)
+![Stars](https://img.shields.io/github/stars/eswain89-web/quotechime-free?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/266673908?v=4" width="50" height="50">
+
+A static, dependency-free quote follow-up generator for small trade and service businesses. It runs entirely in the browser, uploads no customer data, requires no account, and can be self-hosted from static files.
+
 ### [Customermates](https://github.com/customermates/customermates)
 ![Stars](https://img.shields.io/github/stars/customermates/customermates?style=social)
 
