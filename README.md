@@ -194,6 +194,13 @@ An open-source, offline AI assistant that enables users to run language models l
 
 An open-source context infrastructure for AI agents. It connects any source, versions every change Git-style, and scopes access per agent.
 
+### [Hexis](https://github.com/Bevel-Software/Hexis)
+![Stars](https://img.shields.io/github/stars/Bevel-Software/Hexis?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/195282516?v=4" width="50" height="50">
+
+An open-source, Git-backed platform for centrally managing, reviewing, and sharing skills, tools, and context with AI agents over MCP.
+
 ## Developer Tools
 
 ### [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
