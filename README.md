@@ -277,7 +277,6 @@ An open-source surveying platform that helps teams gather user feedback through 
 
 An open source feedback platform with voting boards, public roadmaps, changelogs, and a built-in MCP server for AI agents. Alternative to Canny and UserVoice.
 
-
 ### [FastHelpdesk](https://github.com/predictivelabsai/FastHelpdesk)
 ![Stars](https://img.shields.io/github/stars/predictivelabsai/FastHelpdesk?style=social)
 
@@ -298,7 +297,6 @@ An open-source CRM with native n8n workflow automation, built for small B2B team
 <img src="https://avatars.githubusercontent.com/u/216286592?v=4" width="50" height="50">
 
 An open-source, AI-native cold email and warmup platform with mailbox management, campaign automation, a unified inbox, and deliverability controls. Self-hostable with Docker.
-
 
 ### [FastCRM](https://github.com/predictivelabsai/FastCRM)
 ![Stars](https://img.shields.io/github/stars/predictivelabsai/FastCRM?style=social)
@@ -343,7 +341,6 @@ An AI-powered social media scheduling platform that helps businesses manage post
 <img src="https://avatars.githubusercontent.com/u/225143320?v=4" width="50" height="50">
 
 An open-source meeting scheduling platform built with Elixir/Phoenix LiveView. Self-hostable alternative to Calendly with calendar sync, video conferencing integration, timezone support, and SSO.
-
 
 ### [FastOffice](https://github.com/predictivelabsai/FastOffice)
 ![Stars](https://img.shields.io/github/stars/predictivelabsai/FastOffice?style=social)
@@ -428,7 +425,6 @@ An open-source digital document signing platform that aims to provide a trusted,
 
 An open-source tool for creating professional resumes using markdown, offering live preview, theme customization, and PDF export.
 
-
 ### [FastDocs](https://github.com/predictivelabsai/FastDocs)
 ![Stars](https://img.shields.io/github/stars/predictivelabsai/FastDocs?style=social)
 
@@ -444,7 +440,6 @@ An open-source server-rendered document editor with Markdown blocks, folders, te
 <img src="https://avatars.githubusercontent.com/u/80786585?v=4" width="50" height="50">
 
 An open-source personal finance and wealth management application that allows users to manage their finances, with plans for self-hosting and future managed services.
-
 
 ### [FastERP](https://github.com/predictivelabsai/FastERP)
 ![Stars](https://img.shields.io/github/stars/predictivelabsai/FastERP?style=social)
