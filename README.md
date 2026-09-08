@@ -277,6 +277,14 @@ An open-source surveying platform that helps teams gather user feedback through 
 
 An open source feedback platform with voting boards, public roadmaps, changelogs, and a built-in MCP server for AI agents. Alternative to Canny and UserVoice.
 
+
+### [FastHelpdesk](https://github.com/predictivelabsai/FastHelpdesk)
+![Stars](https://img.shields.io/github/stars/predictivelabsai/FastHelpdesk?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/220912156?v=4" width="50" height="50">
+
+An open-source FastHTML customer support desk with ticket queues, live SLA timers, agents and teams, a knowledge base, and a data-grounded AI assistant. Self-hostable via Docker. Alternative to Zendesk and Freshdesk.
+
 ## CRM & Sales
 
 ### [Customermates](https://github.com/customermates/customermates)
@@ -290,6 +298,14 @@ An open-source CRM with native n8n workflow automation, built for small B2B team
 <img src="https://avatars.githubusercontent.com/u/216286592?v=4" width="50" height="50">
 
 An open-source, AI-native cold email and warmup platform with mailbox management, campaign automation, a unified inbox, and deliverability controls. Self-hostable with Docker.
+
+
+### [FastCRM](https://github.com/predictivelabsai/FastCRM)
+![Stars](https://img.shields.io/github/stars/predictivelabsai/FastCRM?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/220912156?v=4" width="50" height="50">
+
+An open-source FastHTML sales CRM with leads, contacts, organizations, tasks, activity timelines, a Kanban deal pipeline, and a data-grounded AI assistant. Self-hostable via Docker; part of the FastSME suite (BYOC free / hosted €1/month). Alternative to HubSpot and Pipedrive.
 
 ## Productivity & Project Management
 
@@ -327,6 +343,14 @@ An AI-powered social media scheduling platform that helps businesses manage post
 <img src="https://avatars.githubusercontent.com/u/225143320?v=4" width="50" height="50">
 
 An open-source meeting scheduling platform built with Elixir/Phoenix LiveView. Self-hostable alternative to Calendly with calendar sync, video conferencing integration, timezone support, and SSO.
+
+
+### [FastOffice](https://github.com/predictivelabsai/FastOffice)
+![Stars](https://img.shields.io/github/stars/predictivelabsai/FastOffice?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/220912156?v=4" width="50" height="50">
+
+An open-source productivity suite and control plane for FastSME apps, with shared identity, organizations, RBAC, invitations, white-labeling, and AI configuration. Self-hostable; homepage https://office.fastsme.com. Alternative to Microsoft 365 and Google Workspace control planes.
 
 ## Desktop Applications
 
@@ -404,6 +428,14 @@ An open-source digital document signing platform that aims to provide a trusted,
 
 An open-source tool for creating professional resumes using markdown, offering live preview, theme customization, and PDF export.
 
+
+### [FastDocs](https://github.com/predictivelabsai/FastDocs)
+![Stars](https://img.shields.io/github/stars/predictivelabsai/FastDocs?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/220912156?v=4" width="50" height="50">
+
+An open-source server-rendered document editor with Markdown blocks, folders, templates, version history, public links, and AI authoring. Built with FastHTML and HTMX; Docker Compose included. Alternative to Google Docs and Notion.
+
 ## Financial Tools
 
 ### [Maybe](https://github.com/maybe-finance/maybe)
@@ -412,6 +444,14 @@ An open-source tool for creating professional resumes using markdown, offering l
 <img src="https://avatars.githubusercontent.com/u/80786585?v=4" width="50" height="50">
 
 An open-source personal finance and wealth management application that allows users to manage their finances, with plans for self-hosting and future managed services.
+
+
+### [FastERP](https://github.com/predictivelabsai/FastERP)
+![Stars](https://img.shields.io/github/stars/predictivelabsai/FastERP?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/220912156?v=4" width="50" height="50">
+
+An open-source FastHTML ERP covering order-to-cash, procure-to-stock, inventory, accounting, and AI-assisted operations with deterministic demo data. Self-hostable via Docker. Alternative to SAP Business One and Odoo.
 
 ## Contributing
 
