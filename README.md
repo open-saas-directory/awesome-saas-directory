@@ -1,3 +1,5 @@
+![Awesome Open Source SaaS Alternatives](assets/banner.png)
+
 # 🚀 Awesome Open Source SaaS Alternatives
 
 A curated, continuously-updated list of production-ready open source SaaS applications and self-hostable platforms — real, working replacements for the paid tools listed next to each project below.
