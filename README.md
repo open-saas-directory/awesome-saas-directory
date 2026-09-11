@@ -8,7 +8,7 @@ Every entry is pulled live from [Open SaaS Directory](https://opensaas.directory
 
 | | |
 |---|---|
-| **Projects** | 105 |
+| **Projects** | 100 |
 | **Categories** | 55 |
 | **Source of truth** | [Open SaaS Directory](https://opensaas.directory) database |
 | **Stars / license / activity** | live badges, not hardcoded |
@@ -20,17 +20,15 @@ Every entry is pulled live from [Open SaaS Directory](https://opensaas.directory
 |---|---|
 | [Machine Learning & AI Development Tools](#machine-learning-ai-development-tools) | 8 |
 | [Content Management System Platforms](#content-management-system-platforms) | 5 |
-| [Team Productivity & Collaboration Tools](#team-productivity-collaboration-tools) | 5 |
 | [Authentication & Single Sign-On Solutions](#authentication-single-sign-on-solutions) | 4 |
-| [Project Management & Planning Tools](#project-management-planning-tools) | 4 |
 | [System Monitoring & Alerting Tools](#system-monitoring-alerting-tools) | 4 |
 | [Team Communication & Collaboration Tools](#team-communication-collaboration-tools) | 4 |
 | [Web Analytics & Visitor Tracking Tools](#web-analytics-visitor-tracking-tools) | 4 |
 | [API Development & Testing Tools](#api-development-testing-tools) | 3 |
 | [Business Intelligence & Data Analytics Tools](#business-intelligence-data-analytics-tools) | 3 |
 | [Observability & Performance Tools](#observability-performance-tools) | 3 |
+| [Project Management & Planning Tools](#project-management-planning-tools) | 3 |
 | [Backend Infrastructure Tools](#backend-infrastructure-tools) | 2 |
-| [Cross-Platform Desktop Application Tools](#cross-platform-desktop-application-tools) | 2 |
 | [Database Administration & Management Tools](#database-administration-management-tools) | 2 |
 | [Development Environment & IDE Tools](#development-environment-ide-tools) | 2 |
 | [E-Commerce & Digital Marketplace Tools](#e-commerce-digital-marketplace-tools) | 2 |
@@ -42,9 +40,11 @@ Every entry is pulled live from [Open SaaS Directory](https://opensaas.directory
 | [Platform as a Service Development Tools](#platform-as-a-service-development-tools) | 2 |
 | [Product Analytics & User Tracking Tools](#product-analytics-user-tracking-tools) | 2 |
 | [Software Development & DevOps Tools](#software-development-devops-tools) | 2 |
+| [Team Productivity & Collaboration Tools](#team-productivity-collaboration-tools) | 2 |
 | [Time Tracking & Productivity Tools](#time-tracking-productivity-tools) | 2 |
 | [Appointment & Resource Scheduling Tools](#appointment-resource-scheduling-tools) | 1 |
 | [Community & Forum Management Platforms](#community-forum-management-platforms) | 1 |
+| [Cross-Platform Desktop Application Tools](#cross-platform-desktop-application-tools) | 1 |
 | [Customer Engagement & Support Platforms](#customer-engagement-support-platforms) | 1 |
 | [Customer Relationship Management Systems](#customer-relationship-management-systems) | 1 |
 | [Design & Prototyping Development Tools](#design-prototyping-development-tools) | 1 |
@@ -80,17 +80,15 @@ Every entry is pulled live from [Open SaaS Directory](https://opensaas.directory
 
 - [Machine Learning & AI Development Tools](#machine-learning-ai-development-tools)
 - [Content Management System Platforms](#content-management-system-platforms)
-- [Team Productivity & Collaboration Tools](#team-productivity-collaboration-tools)
 - [Authentication & Single Sign-On Solutions](#authentication-single-sign-on-solutions)
-- [Project Management & Planning Tools](#project-management-planning-tools)
 - [System Monitoring & Alerting Tools](#system-monitoring-alerting-tools)
 - [Team Communication & Collaboration Tools](#team-communication-collaboration-tools)
 - [Web Analytics & Visitor Tracking Tools](#web-analytics-visitor-tracking-tools)
 - [API Development & Testing Tools](#api-development-testing-tools)
 - [Business Intelligence & Data Analytics Tools](#business-intelligence-data-analytics-tools)
 - [Observability & Performance Tools](#observability-performance-tools)
+- [Project Management & Planning Tools](#project-management-planning-tools)
 - [Backend Infrastructure Tools](#backend-infrastructure-tools)
-- [Cross-Platform Desktop Application Tools](#cross-platform-desktop-application-tools)
 - [Database Administration & Management Tools](#database-administration-management-tools)
 - [Development Environment & IDE Tools](#development-environment-ide-tools)
 - [E-Commerce & Digital Marketplace Tools](#e-commerce-digital-marketplace-tools)
@@ -102,9 +100,11 @@ Every entry is pulled live from [Open SaaS Directory](https://opensaas.directory
 - [Platform as a Service Development Tools](#platform-as-a-service-development-tools)
 - [Product Analytics & User Tracking Tools](#product-analytics-user-tracking-tools)
 - [Software Development & DevOps Tools](#software-development-devops-tools)
+- [Team Productivity & Collaboration Tools](#team-productivity-collaboration-tools)
 - [Time Tracking & Productivity Tools](#time-tracking-productivity-tools)
 - [Appointment & Resource Scheduling Tools](#appointment-resource-scheduling-tools)
 - [Community & Forum Management Platforms](#community-forum-management-platforms)
+- [Cross-Platform Desktop Application Tools](#cross-platform-desktop-application-tools)
 - [Customer Engagement & Support Platforms](#customer-engagement-support-platforms)
 - [Customer Relationship Management Systems](#customer-relationship-management-systems)
 - [Design & Prototyping Development Tools](#design-prototyping-development-tools)
@@ -346,80 +346,6 @@ An open-source real-time API and dashboard for managing SQL database content, pr
 
 ---
 
-## Team Productivity & Collaboration Tools
-
-### [Maccy](https://github.com/p0deje/Maccy)
-
-<img src="https://maccy.app/img/maccy/Logo.png" width="40" height="40" alt="Maccy logo">
-
-[![Stars](https://img.shields.io/github/stars/p0deje/Maccy?style=flat-square&label=stars)](https://github.com/p0deje/Maccy/stargazers) [![License](https://img.shields.io/github/license/p0deje/Maccy?style=flat-square)](https://github.com/p0deje/Maccy) [![Last Commit](https://img.shields.io/github/last-commit/p0deje/Maccy?style=flat-square)](https://github.com/p0deje/Maccy/commits)
-
-Maccy is a lightweight clipboard manager for macOS. It stores your copy history and allows you to quickly search, navigate, and reuse clipboard contents. Designed with speed and simplicity in mind, it offers a native macOS experience. Maccy prioritizes privacy and does not share your data.
-
-**Highlights:** Lightweight and fast · Keyboard-first navigation · Secure and private
-
-**💡 Open-source alternative to:** Paste
-
-**[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/maccy)**
-
----
-
-### [Loro](https://github.com/loro-dev/loro)
-
-<img src="https://avatars.githubusercontent.com/u/107859557?v=4" width="40" height="40" alt="Loro logo">
-
-[![Stars](https://img.shields.io/github/stars/loro-dev/loro?style=flat-square&label=stars)](https://github.com/loro-dev/loro/stargazers) [![License](https://img.shields.io/github/license/loro-dev/loro?style=flat-square)](https://github.com/loro-dev/loro) [![Last Commit](https://img.shields.io/github/last-commit/loro-dev/loro?style=flat-square)](https://github.com/loro-dev/loro/commits)
-
-Loro is a CRDT (Conflict-free Replicated Data Types) library that makes it easy to build collaborative, local-first applications. It offers automatic merging, offline availability, and fast synchronization across peers.
-
-**[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/loro)**
-
----
-
-### [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar)
-
-<img src="https://raw.githubusercontent.com/DamascenoRafael/reminders-menubar/master/images/reminders-icon.png" width="40" height="40" alt="Reminders MenuBar logo">
-
-[![Stars](https://img.shields.io/github/stars/DamascenoRafael/reminders-menubar?style=flat-square&label=stars)](https://github.com/DamascenoRafael/reminders-menubar/stargazers) [![License](https://img.shields.io/github/license/DamascenoRafael/reminders-menubar?style=flat-square)](https://github.com/DamascenoRafael/reminders-menubar) [![Last Commit](https://img.shields.io/github/last-commit/DamascenoRafael/reminders-menubar?style=flat-square)](https://github.com/DamascenoRafael/reminders-menubar/commits)
-
-A macOS menu bar application that allows users to view, create, edit, and manage Apple Reminders with a simple and intuitive interface.
-
-**Highlights:** Manage reminders directly through the macOS menu bar · Sync seamlessly with Apple Reminders via iCloud · Create reminders with natural language input for due dates
-
-**💡 Open-source alternative to:** Fantastical, Things 3
-
-**[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/reminders-menubar)**
-
----
-
-### [CodeFlash](https://github.com/codeflash-ai/codeflash)
-
-<img src="https://avatars.githubusercontent.com/u/148400846?v=4" width="40" height="40" alt="CodeFlash logo">
-
-[![Stars](https://img.shields.io/github/stars/codeflash-ai/codeflash?style=flat-square&label=stars)](https://github.com/codeflash-ai/codeflash/stargazers) [![License](https://img.shields.io/github/license/codeflash-ai/codeflash?style=flat-square)](https://github.com/codeflash-ai/codeflash) [![Last Commit](https://img.shields.io/github/last-commit/codeflash-ai/codeflash?style=flat-square)](https://github.com/codeflash-ai/codeflash/commits)
-
-Codeflash is a Python optimization tool that uses advanced LLMs to improve code performance while preserving correctness.
-
-**[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/codeflash)**
-
----
-
-### [Markdown Resume](https://github.com/rozita-hasani/markdown-resume)
-
-<img src="https://markdownresume.app/logo.svg" width="40" height="40" alt="Markdown Resume logo">
-
-[![Stars](https://img.shields.io/github/stars/rozita-hasani/markdown-resume?style=flat-square&label=stars)](https://github.com/rozita-hasani/markdown-resume/stargazers) [![License](https://img.shields.io/github/license/rozita-hasani/markdown-resume?style=flat-square)](https://github.com/rozita-hasani/markdown-resume) [![Last Commit](https://img.shields.io/github/last-commit/rozita-hasani/markdown-resume?style=flat-square)](https://github.com/rozita-hasani/markdown-resume/commits)
-
-An open-source tool for creating professional resumes using markdown, offering live preview, theme customization, and PDF export.
-
-**Highlights:** Write in Markdown · Live Preview · Theme Selection
-
-**💡 Open-source alternative to:** Novoresume, Zety
-
-**[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/markdown-resume)**
-
----
-
 ## Authentication & Single Sign-On Solutions
 
 ### [Keycloak](https://github.com/keycloak/keycloak)
@@ -483,72 +409,6 @@ Hanko is an open-source authentication and user management solution designed wit
 **💡 Open-source alternative to:** Auth0, Clerk
 
 **[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/hanko)**
-
----
-
-## Project Management & Planning Tools
-
-### [Plane](https://github.com/makeplane/plane/)
-
-<img src="https://avatars.githubusercontent.com/u/115727700?v=4" width="40" height="40" alt="Plane logo">
-
-[![Stars](https://img.shields.io/github/stars/makeplane/plane/?style=flat-square&label=stars)](https://github.com/makeplane/plane//stargazers) [![License](https://img.shields.io/github/license/makeplane/plane/?style=flat-square)](https://github.com/makeplane/plane/) [![Last Commit](https://img.shields.io/github/last-commit/makeplane/plane/?style=flat-square)](https://github.com/makeplane/plane//commits)
-
-Plane is an open-source project management tool that helps teams track issues, run cycles, and manage product roadmaps.
-
-**Highlights:** Issues · Cycles · Modules
-
-**💡 Open-source alternative to:** Linear, Jira
-
-**[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/plane)**
-
----
-
-### [Focalboard](https://github.com/mattermost-community/focalboard)
-
-<img src="https://avatars.githubusercontent.com/u/165817188?v=4" width="40" height="40" alt="Focalboard logo">
-
-[![Stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=flat-square&label=stars)](https://github.com/mattermost-community/focalboard/stargazers) [![License](https://img.shields.io/github/license/mattermost-community/focalboard?style=flat-square)](https://github.com/mattermost-community/focalboard) [![Last Commit](https://img.shields.io/github/last-commit/mattermost-community/focalboard?style=flat-square)](https://github.com/mattermost-community/focalboard/commits)
-
-An open-source project management tool that helps teams define, organize, track, and manage work across individuals and teams. Available as a personal desktop app and server solution.
-
-**Highlights:** Open-source and self-hosted · Multilingual support · Flexible editions
-
-**💡 Open-source alternative to:** Trello, Asana
-
-**[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/focalboard)**
-
----
-
-### [Huly Platform](https://github.com/hcengineering/platform)
-
-<img src="https://avatars.githubusercontent.com/u/87086734?v=4" width="40" height="40" alt="Huly Platform logo">
-
-[![Stars](https://img.shields.io/github/stars/hcengineering/platform?style=flat-square&label=stars)](https://github.com/hcengineering/platform/stargazers) [![License](https://img.shields.io/github/license/hcengineering/platform?style=flat-square)](https://github.com/hcengineering/platform) [![Last Commit](https://img.shields.io/github/last-commit/hcengineering/platform?style=flat-square)](https://github.com/hcengineering/platform/commits)
-
-A robust framework for developing business applications like CRM systems, offering multiple integrated applications including Chat, Project Management, CRM, HRM, and ATS.
-
-**Highlights:** Modular Framework · Pre-built Modules · Self-Hosting Support
-
-**💡 Open-source alternative to:** Monday.com, ClickUp
-
-**[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/huly)**
-
----
-
-### [Vikunja](https://github.com/go-vikunja/vikunja)
-
-<img src="https://avatars.githubusercontent.com/u/41270016?v=4" width="40" height="40" alt="Vikunja logo">
-
-[![Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=flat-square&label=stars)](https://github.com/go-vikunja/vikunja/stargazers) [![License](https://img.shields.io/github/license/go-vikunja/vikunja?style=flat-square)](https://github.com/go-vikunja/vikunja) [![Last Commit](https://img.shields.io/github/last-commit/go-vikunja/vikunja?style=flat-square)](https://github.com/go-vikunja/vikunja/commits)
-
-Vikunja is an open-source task and project manager, and a self-hosted alternative to Todoist and Asana. The same tasks can be viewed as a list, table, kanban board, or Gantt chart, with subtasks, labels, reminders, recurring due dates, and saved filters. It runs as a single Go binary, exposes a REST API, syncs via CalDAV, and imports from Todoist, Trello, Asana, and Microsoft To Do.
-
-**Highlights:** Multiple views · Task depth · Scheduling
-
-**💡 Open-source alternative to:** Todoist, Asana
-
-**[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/vikunja)**
 
 ---
 
@@ -900,6 +760,56 @@ A developer platform for error tracking and performance monitoring that helps de
 
 ---
 
+## Project Management & Planning Tools
+
+### [Plane](https://github.com/makeplane/plane/)
+
+<img src="https://avatars.githubusercontent.com/u/115727700?v=4" width="40" height="40" alt="Plane logo">
+
+[![Stars](https://img.shields.io/github/stars/makeplane/plane/?style=flat-square&label=stars)](https://github.com/makeplane/plane//stargazers) [![License](https://img.shields.io/github/license/makeplane/plane/?style=flat-square)](https://github.com/makeplane/plane/) [![Last Commit](https://img.shields.io/github/last-commit/makeplane/plane/?style=flat-square)](https://github.com/makeplane/plane//commits)
+
+Plane is an open-source project management tool that helps teams track issues, run cycles, and manage product roadmaps.
+
+**Highlights:** Issues · Cycles · Modules
+
+**💡 Open-source alternative to:** Linear, Jira
+
+**[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/plane)**
+
+---
+
+### [Huly Platform](https://github.com/hcengineering/platform)
+
+<img src="https://avatars.githubusercontent.com/u/87086734?v=4" width="40" height="40" alt="Huly Platform logo">
+
+[![Stars](https://img.shields.io/github/stars/hcengineering/platform?style=flat-square&label=stars)](https://github.com/hcengineering/platform/stargazers) [![License](https://img.shields.io/github/license/hcengineering/platform?style=flat-square)](https://github.com/hcengineering/platform) [![Last Commit](https://img.shields.io/github/last-commit/hcengineering/platform?style=flat-square)](https://github.com/hcengineering/platform/commits)
+
+A robust framework for developing business applications like CRM systems, offering multiple integrated applications including Chat, Project Management, CRM, HRM, and ATS.
+
+**Highlights:** Modular Framework · Pre-built Modules · Self-Hosting Support
+
+**💡 Open-source alternative to:** Monday.com, ClickUp
+
+**[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/huly)**
+
+---
+
+### [Vikunja](https://github.com/go-vikunja/vikunja)
+
+<img src="https://avatars.githubusercontent.com/u/41270016?v=4" width="40" height="40" alt="Vikunja logo">
+
+[![Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=flat-square&label=stars)](https://github.com/go-vikunja/vikunja/stargazers) [![License](https://img.shields.io/github/license/go-vikunja/vikunja?style=flat-square)](https://github.com/go-vikunja/vikunja) [![Last Commit](https://img.shields.io/github/last-commit/go-vikunja/vikunja?style=flat-square)](https://github.com/go-vikunja/vikunja/commits)
+
+Vikunja is an open-source task and project manager, and a self-hosted alternative to Todoist and Asana. The same tasks can be viewed as a list, table, kanban board, or Gantt chart, with subtasks, labels, reminders, recurring due dates, and saved filters. It runs as a single Go binary, exposes a REST API, syncs via CalDAV, and imports from Todoist, Trello, Asana, and Microsoft To Do.
+
+**Highlights:** Multiple views · Task depth · Scheduling
+
+**💡 Open-source alternative to:** Todoist, Asana
+
+**[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/vikunja)**
+
+---
+
 ## Backend Infrastructure Tools
 
 ### [Appwrite](https://github.com/appwrite/appwrite)
@@ -931,40 +841,6 @@ An open-source Go backend that provides an all-in-one solution for building web 
 **💡 Open-source alternative to:** Firebase
 
 **[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/pocketbase)**
-
----
-
-## Cross-Platform Desktop Application Tools
-
-### [IINA](https://github.com/iina/iina)
-
-<img src="https://avatars.githubusercontent.com/u/35151645?v=4" width="40" height="40" alt="IINA logo">
-
-[![Stars](https://img.shields.io/github/stars/iina/iina?style=flat-square&label=stars)](https://github.com/iina/iina/stargazers) [![License](https://img.shields.io/github/license/iina/iina?style=flat-square)](https://github.com/iina/iina) [![Last Commit](https://img.shields.io/github/last-commit/iina/iina?style=flat-square)](https://github.com/iina/iina/commits)
-
-A modern, feature-rich video player exclusively designed for macOS, offering advanced playback capabilities and a sleek user interface.
-
-**Highlights:** mpv Integration · Customizable Interface · Robust Subtitle and Playlist Management
-
-**💡 Open-source alternative to:** Movist Pro
-
-**[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/iina-app)**
-
----
-
-### [TomatoBar](https://github.com/ivoronin/TomatoBar)
-
-<img src="https://avatars.githubusercontent.com/u/1638389?v=4" width="40" height="40" alt="TomatoBar logo">
-
-[![Stars](https://img.shields.io/github/stars/ivoronin/TomatoBar?style=flat-square&label=stars)](https://github.com/ivoronin/TomatoBar/stargazers) [![License](https://img.shields.io/github/license/ivoronin/TomatoBar?style=flat-square)](https://github.com/ivoronin/TomatoBar) [![Last Commit](https://img.shields.io/github/last-commit/ivoronin/TomatoBar?style=flat-square)](https://github.com/ivoronin/TomatoBar/commits)
-
-🍅 World's neatest Pomodoro timer for macOS menu bar
-
-**Highlights:** Menu bar Pomodoro timer · Optional sounds & discreet notifications · Global hotkey control
-
-**💡 Open-source alternative to:** Forest, Be Focused
-
-**[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/tomatobar)**
 
 ---
 
@@ -1342,6 +1218,36 @@ GitLab Community Edition is an open-source, self-hosted DevOps platform, and an 
 
 ---
 
+## Team Productivity & Collaboration Tools
+
+### [Maccy](https://github.com/p0deje/Maccy)
+
+<img src="https://maccy.app/img/maccy/Logo.png" width="40" height="40" alt="Maccy logo">
+
+[![Stars](https://img.shields.io/github/stars/p0deje/Maccy?style=flat-square&label=stars)](https://github.com/p0deje/Maccy/stargazers) [![License](https://img.shields.io/github/license/p0deje/Maccy?style=flat-square)](https://github.com/p0deje/Maccy) [![Last Commit](https://img.shields.io/github/last-commit/p0deje/Maccy?style=flat-square)](https://github.com/p0deje/Maccy/commits)
+
+Maccy is a lightweight clipboard manager for macOS. It stores your copy history and allows you to quickly search, navigate, and reuse clipboard contents. Designed with speed and simplicity in mind, it offers a native macOS experience. Maccy prioritizes privacy and does not share your data.
+
+**Highlights:** Lightweight and fast · Keyboard-first navigation · Secure and private
+
+**💡 Open-source alternative to:** Paste
+
+**[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/maccy)**
+
+---
+
+### [Loro](https://github.com/loro-dev/loro)
+
+<img src="https://avatars.githubusercontent.com/u/107859557?v=4" width="40" height="40" alt="Loro logo">
+
+[![Stars](https://img.shields.io/github/stars/loro-dev/loro?style=flat-square&label=stars)](https://github.com/loro-dev/loro/stargazers) [![License](https://img.shields.io/github/license/loro-dev/loro?style=flat-square)](https://github.com/loro-dev/loro) [![Last Commit](https://img.shields.io/github/last-commit/loro-dev/loro?style=flat-square)](https://github.com/loro-dev/loro/commits)
+
+Loro is a CRDT (Conflict-free Replicated Data Types) library that makes it easy to build collaborative, local-first applications. It offers automatic merging, offline availability, and fast synchronization across peers.
+
+**[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/loro)**
+
+---
+
 ## Time Tracking & Productivity Tools
 
 ### [SolidTime](https://github.com/solidtime-io/solidtime)
@@ -1407,6 +1313,24 @@ An open-source community platform that provides a comprehensive solution for onl
 **💡 Open-source alternative to:** Circle, Discord
 
 **[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/discourse)**
+
+---
+
+## Cross-Platform Desktop Application Tools
+
+### [IINA](https://github.com/iina/iina)
+
+<img src="https://avatars.githubusercontent.com/u/35151645?v=4" width="40" height="40" alt="IINA logo">
+
+[![Stars](https://img.shields.io/github/stars/iina/iina?style=flat-square&label=stars)](https://github.com/iina/iina/stargazers) [![License](https://img.shields.io/github/license/iina/iina?style=flat-square)](https://github.com/iina/iina) [![Last Commit](https://img.shields.io/github/last-commit/iina/iina?style=flat-square)](https://github.com/iina/iina/commits)
+
+A modern, feature-rich video player exclusively designed for macOS, offering advanced playback capabilities and a sleek user interface.
+
+**Highlights:** mpv Integration · Customizable Interface · Robust Subtitle and Playlist Management
+
+**💡 Open-source alternative to:** Movist Pro
+
+**[→ Full profile, screenshots & more alternatives](https://opensaas.directory/projects/iina-app)**
 
 ---
 
