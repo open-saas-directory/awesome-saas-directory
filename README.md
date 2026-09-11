@@ -1769,6 +1769,13 @@ An open-source, fair-code workflow automation platform and a self-hostable alter
 
 ---
 
+### [Posnic](https://github.com/Posnic/POS)
+![Stars](https://img.shields.io/github/stars/Posnic/POS?style=social)
+
+<img src="https://raw.githubusercontent.com/Posnic/POS/main/builds/512-posnic.png" width="50" height="50">
+
+Open source POS and billing software for retail shops and restaurants, with offline checkout and self-hosted online/offline workflows. [Official site](https://www.posnic.com/). Alternative to Square POS and Shopify POS.
+
 ## Contributing
 
 This README is generated from the [Open SaaS Directory](https://opensaas.directory) database, so pull requests editing this file directly will be overwritten on the next sync.
