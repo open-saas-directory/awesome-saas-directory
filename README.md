@@ -6,15 +6,6 @@ A curated, continuously-updated list of production-ready open source SaaS applic
 
 Every entry is pulled live from [Open SaaS Directory](https://opensaas.directory) — a searchable, filterable directory of self-hostable software with GitHub stats, licenses, and side-by-side comparisons. Star counts, license, and last-commit badges below update automatically; this file itself is re-synced from the database periodically so the list stays current without manual edits.
 
-## 📊 At a Glance
-
-| | |
-|---|---|
-| **Projects** | 100 |
-| **Categories** | 55 |
-| **Source of truth** | [Open SaaS Directory](https://opensaas.directory) database |
-| **Stars / license / activity** | live badges, not hardcoded |
-
 ## 📑 Table of Contents
 
 - [Machine Learning & AI Development](#machine-learning-ai-development-tools)
