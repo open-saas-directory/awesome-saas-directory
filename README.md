@@ -1580,6 +1580,13 @@ Connect smart-home devices and automate your home with local control.
 
 ---
 
+### [Posnic](https://github.com/Posnic/POS)
+![Stars](https://img.shields.io/github/stars/Posnic/POS?style=social)
+
+<img src="https://raw.githubusercontent.com/Posnic/POS/main/builds/512-posnic.png" width="50" height="50">
+
+Open source POS and billing software for retail shops and restaurants, with offline checkout and self-hosted online/offline workflows. [Official site](https://www.posnic.com/). Alternative to Square POS and Shopify POS.
+
 ## Contributing
 
 Project entries are sourced from the [Open SaaS Directory](https://opensaas.directory) database. To add a project, [submit it to Open SaaS Directory](https://opensaas.directory/projects/new). Include its repository, license, purpose, documentation, and deployment requirements so readers can evaluate it.
