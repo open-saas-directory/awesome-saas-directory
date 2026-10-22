@@ -2,7 +2,7 @@
 
 # Awesome Open Source SaaS Alternatives
 
-Find open-source SaaS alternatives, self-hosted applications, and developer tools for analytics, collaboration, marketing, security, and more. Browse 102 projects by what you want to do.
+Find open-source SaaS alternatives, self-hosted applications, and developer tools for analytics, collaboration, marketing, security, and more. Browse 103 projects by what you want to do.
 
 This list is a snapshot of [Open SaaS Directory](https://opensaas.directory). Project names link to their GitHub repositories; the directory provides project profiles and discovery tools. The collection also includes desktop apps, developer libraries, and source-available projects. Check each project's current license, hosting requirements, and feature limits before choosing it. Listed alternatives are starting points for comparison, not promises of feature parity.
 
@@ -11,7 +11,7 @@ This list is a snapshot of [Open SaaS Directory](https://opensaas.directory). Pr
 **AI & Automation**
 
 - [AI Chat Assistants](#ai-chat-assistants) (6)
-- [AI Agents & App Builders](#ai-agents-app-builders) (2)
+- [AI Agents & App Builders](#ai-agents-app-builders) (3)
 - [Workflow Automation](#workflow-automation) (1)
 
 **Analytics & Monitoring**
@@ -175,6 +175,15 @@ Build AI applications, agents, and multi-step LLM workflows.
 <td>
 <strong><a href="https://github.com/AgentDock/AgentDock">AgentDock</a></strong><br>
 <sub>AgentDock is a flexible framework for building AI agents capable of executing complex, multi-step tasks with a balance of creativity and predictability.</sub>
+</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="https://avatars.githubusercontent.com/u/322451432?v=4" width="48" height="48" alt="Orbi logo"><br>
+<img src="https://img.shields.io/github/stars/orbi-build/orbi?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/orbi-build/orbi">Orbi</a></strong><br>
+<sub>Orbi is a self-hostable coding agent for GitHub: label an Issue ai-ready and it implements the change, opens a PR, gets an independent AI review, and merges after review and CI pass.<br>
+💡 <b>Open-source alternative to Devin & GitHub Copilot coding agent</b></sub>
 </td>
 </tr>
 </table>
