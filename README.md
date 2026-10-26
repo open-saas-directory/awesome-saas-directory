@@ -74,7 +74,7 @@ Projects organized by category.
 
 **🔒 Security & Access**
 
-- [🔑 Authentication & SSO](#authentication-sso) (4)
+- [🔑 Authentication & SSO](#authentication-sso) (5)
 - [🗝️ Password Managers](#password-managers) (1)
 - [🛡️ Secrets Management](#secrets-management) (1)
 - [🖥️ Remote Desktop](#remote-desktop) (1)
@@ -86,14 +86,14 @@ Projects organized by category.
 - [📚 Knowledge Bases & Documentation](#knowledge-bases-documentation) (3)
 - [🗒️ Notes & Personal Productivity](#notes-personal-productivity) (3)
 - [⏱️ Time Tracking](#time-tracking) (2)
-- [📅 Appointment Scheduling](#appointment-scheduling) (1)
+- [📅 Appointment Scheduling](#appointment-scheduling) (2)
 - [🎨 Design & Whiteboards](#design-whiteboards) (2)
 
 **📣 Content & Marketing**
 
 - [📰 Content Management Systems (CMS)](#content-management-systems-cms) (4)
 - [🗣️ Community Forums](#community-forums) (1)
-- [📧 Email Marketing & Automation](#email-marketing-automation) (2)
+- [📧 Email Marketing & Automation](#email-marketing-automation) (3)
 - [📝 Forms & Surveys](#forms-surveys) (2)
 - [📱 Social Media Management](#social-media-management) (1)
 - [🔗 URL Shorteners](#url-shorteners) (1)
@@ -105,7 +105,7 @@ Projects organized by category.
 - [🛒 E-Commerce](#e-commerce) (2)
 - [🏢 Enterprise Resource Planning (ERP)](#enterprise-resource-planning-erp) (2)
 - [👥 HR & Payroll](#hr-payroll) (1)
-- [💳 Billing & Subscriptions](#billing-subscriptions) (1)
+- [💳 Billing & Subscriptions](#billing-subscriptions) (2)
 - [✍️ E-Signatures](#e-signatures) (1)
 - [🗂️ Document Management](#document-management) (1)
 - [📦 Product Information Management (PIM)](#product-information-management-pim) (1)
@@ -845,6 +845,15 @@ Add user authentication, identity management, and single sign-on to applications
 💡 <b>Open-source alternative to Auth0 & Clerk</b></sub>
 </td>
 </tr>
+<tr>
+<td width="64" align="center"><img src="https://avatars.githubusercontent.com/u/121730012?v=4" width="48" height="48" alt="express-email-otp-login logo"><br>
+<img src="https://img.shields.io/github/stars/manishgupta412/express-email-otp-login?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/manishgupta412/express-email-otp-login">express-email-otp-login</a></strong><br>
+<sub>Passwordless login for Express with email one-time codes and magic links, sent via the Mailtrap Email API.<br>
+💡 <b>Open-source alternative to Stytch & Auth0</b></sub>
+</td>
+</tr>
 </table>
 
 <a name="password-managers"></a>
@@ -1120,6 +1129,15 @@ Let people book meetings and appointments around your availability.
 💡 <b>Open-source alternative to Calendly & Acuity Scheduling</b></sub>
 </td>
 </tr>
+<tr>
+<td width="64" align="center"><img src="https://avatars.githubusercontent.com/u/121849188?v=4" width="48" height="48" alt="laravel-appointment-reminders logo"><br>
+<img src="https://img.shields.io/github/stars/jy7lsna/laravel-appointment-reminders?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/jy7lsna/laravel-appointment-reminders">laravel-appointment-reminders</a></strong><br>
+<sub>Laravel appointment booking with confirmation emails, calendar invites and automatic reminder emails.<br>
+💡 <b>Open-source alternative to Calendly</b></sub>
+</td>
+</tr>
 </table>
 
 <a name="design-whiteboards"></a>
@@ -1249,6 +1267,15 @@ Send newsletters, manage mailing lists, and automate marketing campaigns.
 <strong><a href="https://github.com/mautic/mautic">Mautic</a></strong><br>
 <sub>Mautic is an open-source marketing automation platform, and a self-hosted alternative to HubSpot, Marketo, and ActiveCampaign.<br>
 💡 <b>Open-source alternative to HubSpot & Marketo</b></sub>
+</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="https://avatars.githubusercontent.com/u/40291960?v=4" width="48" height="48" alt="nextjs-waitlist-double-opt-in logo"><br>
+<img src="https://img.shields.io/github/stars/Sid-Lais/nextjs-waitlist-double-opt-in?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/Sid-Lais/nextjs-waitlist-double-opt-in">nextjs-waitlist-double-opt-in</a></strong><br>
+<sub>Next.js waitlist with double opt-in confirmation, a referral queue and a bulk launch email, sent via the Mailtrap Email API.<br>
+💡 <b>Open-source alternative to Viral Loops</b></sub>
 </td>
 </tr>
 </table>
@@ -1459,6 +1486,15 @@ Meter usage and manage subscription billing.
 <strong><a href="https://github.com/getlago/lago">Lago</a></strong><br>
 <sub>Lago is an open-source metering and billing platform, and a self-hosted alternative to Stripe Billing and Chargebee.<br>
 💡 <b>Open-source alternative to Stripe Billing & Chargebee</b></sub>
+</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="https://avatars.githubusercontent.com/u/40291960?v=4" width="48" height="48" alt="django-invoice-reminders logo"><br>
+<img src="https://img.shields.io/github/stars/Sid-Lais/django-invoice-reminders?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/Sid-Lais/django-invoice-reminders">django-invoice-reminders</a></strong><br>
+<sub>Automated invoice payment reminder emails for Django, sent on a schedule via the Mailtrap Email API.<br>
+💡 <b>Open-source alternative to Chaser</b></sub>
 </td>
 </tr>
 </table>
