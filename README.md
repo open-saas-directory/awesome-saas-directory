@@ -1251,6 +1251,15 @@ Send newsletters, manage mailing lists, and automate marketing campaigns.
 💡 <b>Open-source alternative to HubSpot & Marketo</b></sub>
 </td>
 </tr>
+<tr>
+<td width="64" align="center"><img src="https://avatars.githubusercontent.com/u/40291960?v=4" width="48" height="48" alt="nextjs-waitlist-double-opt-in logo"><br>
+<img src="https://img.shields.io/github/stars/Sid-Lais/nextjs-waitlist-double-opt-in?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/Sid-Lais/nextjs-waitlist-double-opt-in">nextjs-waitlist-double-opt-in</a></strong><br>
+<sub>Next.js waitlist with double opt-in, referral queue and a bulk launch email (TypeScript, Drizzle, SQLite).<br>
+💡 <b>Open-source alternative to Mailchimp</b></sub>
+</td>
+</tr>
 </table>
 
 <a name="forms-surveys"></a>
