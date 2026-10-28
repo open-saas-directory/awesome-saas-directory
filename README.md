@@ -1120,6 +1120,15 @@ Let people book meetings and appointments around your availability.
 💡 <b>Open-source alternative to Calendly & Acuity Scheduling</b></sub>
 </td>
 </tr>
+<tr>
+<td width="64" align="center"><img src="https://avatars.githubusercontent.com/u/121849188?v=4" width="48" height="48" alt="laravel-appointment-reminders logo"><br>
+<img src="https://img.shields.io/github/stars/jy7lsna/laravel-appointment-reminders?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/jy7lsna/laravel-appointment-reminders">laravel-appointment-reminders</a></strong><br>
+<sub>Laravel appointment booking with calendar invites (.ics), 24h/2h reminders and one-click reschedule.<br>
+💡 <b>Open-source alternative to Calendly</b></sub>
+</td>
+</tr>
 </table>
 
 <a name="design-whiteboards"></a>
