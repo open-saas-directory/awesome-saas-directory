@@ -845,6 +845,15 @@ Add user authentication, identity management, and single sign-on to applications
 💡 <b>Open-source alternative to Auth0 & Clerk</b></sub>
 </td>
 </tr>
+<tr>
+<td width="64" align="center"><img src="https://avatars.githubusercontent.com/u/97653340?v=4" width="48" height="48" alt="express-email-otp-login logo"><br>
+<img src="https://img.shields.io/github/stars/parv15/express-email-otp-login?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/parv15/express-email-otp-login">express-email-otp-login</a></strong><br>
+<sub>Passwordless login for Express with email one-time codes and magic links (TypeScript, SQLite, rate limiting).<br>
+💡 <b>Open-source alternative to Auth0</b></sub>
+</td>
+</tr>
 </table>
 
 <a name="password-managers"></a>
