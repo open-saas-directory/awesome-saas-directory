@@ -1461,6 +1461,15 @@ Meter usage and manage subscription billing.
 💡 <b>Open-source alternative to Stripe Billing & Chargebee</b></sub>
 </td>
 </tr>
+<tr>
+<td width="64" align="center"><img src="https://avatars.githubusercontent.com/u/40291960?v=4" width="48" height="48" alt="django-invoice-reminders logo"><br>
+<img src="https://img.shields.io/github/stars/Sid-Lais/django-invoice-reminders?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/Sid-Lais/django-invoice-reminders">django-invoice-reminders</a></strong><br>
+<sub>Django invoicing app that emails PDF invoices and sends automatic overdue payment reminders until paid.<br>
+💡 <b>Open-source alternative to QuickBooks</b></sub>
+</td>
+</tr>
 </table>
 
 <a name="e-signatures"></a>
