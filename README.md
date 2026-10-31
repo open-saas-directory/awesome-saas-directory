@@ -1481,6 +1481,15 @@ Send documents for electronic signatures.
 💡 <b>Open-source alternative to DocuSign & HelloSign</b></sub>
 </td>
 </tr>
+<tr>
+<td width="64" align="center"><img src="https://github.com/signbee.png" width="48" height="48" alt="Signbee logo"><br>
+<img src="https://img.shields.io/github/stars/signbee/mcp?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/signbee/mcp">Signbee</a></strong><br>
+<sub>An AI-native document e-signing platform and open-source MCP server (<a href="https://signb.ee">signb.ee</a>) enabling AI agents and teams to send Markdown or PDF agreements for two-party electronic signatures with SHA-256 cryptographic audit certificates.<br>
+💡 <b>Open-source AI-native alternative to DocuSign & Dropbox Sign</b></sub>
+</td>
+</tr>
 </table>
 
 <a name="document-management"></a>
