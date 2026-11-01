@@ -62,7 +62,7 @@ Projects organized by category.
 - [☁️ Backend as a Service](#backend-as-a-service) (3)
 - [💻 Code Editors & Cloud IDEs](#code-editors-cloud-ides) (2)
 - [🔧 Git Hosting & CI/CD](#git-hosting-ci-cd) (2)
-- [🚀 App Deployment & Self-Hosting](#app-deployment-self-hosting) (3)
+- [🚀 App Deployment & Self-Hosting](#app-deployment-self-hosting) (4)
 - [🔍 Search Engines](#search-engines) (2)
 - [🧰 Internal Tool Builders](#internal-tool-builders) (2)
 - [🗄️ No-Code Databases](#no-code-databases) (2)
@@ -610,6 +610,15 @@ Deploy applications and databases or manage a personal cloud on your own infrast
 <strong><a href="https://github.com/beclab/Olares">Olares</a></strong><br>
 <sub>Olares is an open-source personal cloud operating system that lets you host your digital life on your own hardware.<br>
 💡 <b>Open-source alternative to Synology</b></sub>
+</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="https://avatars.githubusercontent.com/u/276408515?v=4" width="48" height="48" alt="Cloud in a Bottle logo"><br>
+<img src="https://img.shields.io/github/stars/cloud-in-a-bottle/cloud-in-a-bottle?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/cloud-in-a-bottle/cloud-in-a-bottle">Cloud in a Bottle</a></strong><br>
+<sub>A self-hosted platform that builds apps from Git repos into rootless Podman containers on a user controlled server, each with its own subdomain.<br>
+💡 <b>Open-source alternative to Heroku & Vercel</b></sub>
 </td>
 </tr>
 </table>
