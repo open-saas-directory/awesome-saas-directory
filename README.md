@@ -101,7 +101,7 @@ Projects organized by category.
 **💼 Business & Commerce**
 
 - [🎧 Customer Support](#customer-support) (1)
-- [📇 Customer Relationship Management (CRM)](#customer-relationship-management-crm) (1)
+- [📇 Customer Relationship Management (CRM)](#customer-relationship-management-crm) (2)
 - [🛒 E-Commerce](#e-commerce) (2)
 - [🏢 Enterprise Resource Planning (ERP)](#enterprise-resource-planning-erp) (2)
 - [👥 HR & Payroll](#hr-payroll) (1)
@@ -1371,6 +1371,15 @@ Organize contacts, customer relationships, and sales workflows.
 <strong><a href="https://github.com/twentyhq/twenty">Twenty</a></strong><br>
 <sub>An open-source CRM and a self-hostable alternative to Salesforce and HubSpot.<br>
 💡 <b>Open-source alternative to Salesforce & HubSpot CRM</b></sub>
+</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="https://avatars.githubusercontent.com/u/256565502?v=4" width="48" height="48" alt="Customermates logo"><br>
+<img src="https://img.shields.io/github/stars/customermates/customermates?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/customermates/customermates">Customermates</a></strong><br>
+<sub>An open-source CRM where AI agents work next to people: connect Claude, ChatGPT or any MCP client, or use the built-in assistant. Self-hostable (AGPL-3.0) with a managed EU cloud, a REST API, webhooks and an n8n community node.<br>
+💡 <b>Open-source alternative to HubSpot, Pipedrive & Attio</b></sub>
 </td>
 </tr>
 </table>
