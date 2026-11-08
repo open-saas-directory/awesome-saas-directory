@@ -102,7 +102,7 @@ Projects organized by category.
 
 - [🎧 Customer Support](#customer-support) (1)
 - [📇 Customer Relationship Management (CRM)](#customer-relationship-management-crm) (2)
-- [🛒 E-Commerce](#e-commerce) (2)
+- [🛒 E-Commerce](#e-commerce) (3)
 - [🏢 Enterprise Resource Planning (ERP)](#enterprise-resource-planning-erp) (2)
 - [👥 HR & Payroll](#hr-payroll) (1)
 - [💳 Billing & Subscriptions](#billing-subscriptions) (1)
@@ -1409,6 +1409,15 @@ Build online stores and manage commerce backends.
 <strong><a href="https://github.com/saleor/saleor">Saleor</a></strong><br>
 <sub>Saleor is an open-source, GraphQL-first headless commerce platform, and a self-hosted alternative to Shopify and commercetools.<br>
 💡 <b>Open-source alternative to Shopify Plus & BigCommerce</b></sub>
+</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="https://avatars.githubusercontent.com/u/188243336?v=4" width="48" height="48" alt="ShopNex logo"><br>
+<img src="https://img.shields.io/github/stars/shopnex-ai/shopnex?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/shopnex-ai/shopnex">ShopNex</a></strong><br>
+<sub>An open-source, self-hosted e-commerce platform with an admin dashboard, Liquid-themed storefront, hosted checkout, REST API, webhooks and an app SDK (MIT).<br>
+💡 <b>Open-source alternative to Shopify</b></sub>
 </td>
 </tr>
 </table>
