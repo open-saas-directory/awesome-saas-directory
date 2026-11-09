@@ -101,7 +101,7 @@ Projects organized by category.
 **💼 Business & Commerce**
 
 - [🎧 Customer Support](#customer-support) (1)
-- [📇 Customer Relationship Management (CRM)](#customer-relationship-management-crm) (2)
+- [📇 Customer Relationship Management (CRM)](#customer-relationship-management-crm) (3)
 - [🛒 E-Commerce](#e-commerce) (3)
 - [🏢 Enterprise Resource Planning (ERP)](#enterprise-resource-planning-erp) (2)
 - [👥 HR & Payroll](#hr-payroll) (1)
@@ -1380,6 +1380,15 @@ Organize contacts, customer relationships, and sales workflows.
 <strong><a href="https://github.com/customermates/customermates">Customermates</a></strong><br>
 <sub>An open-source CRM where AI agents work next to people: connect Claude, ChatGPT or any MCP client, or use the built-in assistant. Self-hostable (AGPL-3.0) with a managed EU cloud, a REST API, webhooks and an n8n community node.<br>
 💡 <b>Open-source alternative to HubSpot, Pipedrive & Attio</b></sub>
+</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="https://avatars.githubusercontent.com/u/332314415?v=4" width="48" height="48" alt="looot CRM logo"><br>
+<img src="https://img.shields.io/github/stars/loootai/looot-crm?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/loootai/looot-crm">looot CRM</a></strong><br>
+<sub>An open-source CRM for small sales teams with companies, people, a pipeline board and an Intent tab per account built from public hiring, funding and news signals. Runs on Next.js and Supabase (MIT); enrichment and signals are paid per call through looot.<br>
+💡 <b>Open-source CRM with buying-intent signals</b></sub>
 </td>
 </tr>
 </table>
