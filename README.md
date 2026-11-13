@@ -107,7 +107,7 @@ Projects organized by category.
 - [👥 HR & Payroll](#hr-payroll) (1)
 - [💳 Billing & Subscriptions](#billing-subscriptions) (1)
 - [✍️ E-Signatures](#e-signatures) (1)
-- [🗂️ Document Management](#document-management) (1)
+- [🗂️ Document Management](#document-management) (2)
 - [📦 Product Information Management (PIM)](#product-information-management-pim) (1)
 
 **🏠 Personal & Home**
@@ -1535,6 +1535,15 @@ Archive, organize, and search scanned documents and PDFs.
 <strong><a href="https://github.com/paperless-ngx/paperless-ngx">Paperless-ngx</a></strong><br>
 <sub>Paperless-ngx is an open-source document management system that turns scanned paper and PDFs into a searchable digital archive.<br>
 💡 <b>Open-source alternative to DocuWare & M-Files</b></sub>
+</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="https://avatars.githubusercontent.com/u/115144247?v=4" width="48" height="48" alt="PDF/UA & ADA Title II Compliance Checker logo"><br>
+<img src="https://img.shields.io/github/stars/hadesloc/pdfua-ada-checker?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/hadesloc/pdfua-ada-checker">PDF/UA &amp; ADA Title II Compliance Checker</a></strong><br>
+<sub>Free zero-retention web validator powered by veraPDF 1.30.3 checking PDFs against ISO 14289-1 (PDF/UA-1), WCAG 2.1 AA, Section 508, and U.S. ADA Title II rules (MIT).<br>
+💡 <b>Open-source alternative to Adobe Acrobat Pro Accessibility Checker & CommonLook PDF</b></sub>
 </td>
 </tr>
 </table>
