@@ -93,7 +93,7 @@ Projects organized by category.
 
 - [📰 Content Management Systems (CMS)](#content-management-systems-cms) (4)
 - [🗣️ Community Forums](#community-forums) (1)
-- [📧 Email Marketing & Automation](#email-marketing-automation) (2)
+- [📧 Email Marketing & Automation](#email-marketing-automation) (3)
 - [📝 Forms & Surveys](#forms-surveys) (2)
 - [📱 Social Media Management](#social-media-management) (1)
 - [🔗 URL Shorteners](#url-shorteners) (1)
@@ -1258,6 +1258,15 @@ Send newsletters, manage mailing lists, and automate marketing campaigns.
 <strong><a href="https://github.com/mautic/mautic">Mautic</a></strong><br>
 <sub>Mautic is an open-source marketing automation platform, and a self-hosted alternative to HubSpot, Marketo, and ActiveCampaign.<br>
 💡 <b>Open-source alternative to HubSpot & Marketo</b></sub>
+</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="https://avatars.githubusercontent.com/u/13477474?v=4" width="48" height="48" alt="InboxShield CLI logo"><br>
+<img src="https://img.shields.io/github/stars/zColdWater/inboxshield-cli?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/zColdWater/inboxshield-cli">InboxShield CLI</a></strong><br>
+<sub>Zero-dependency MIT CLI, GitHub Action, and free online 6-phase email deliverability auditor checking recursive SPF 10-lookup limits (with free flattener), 24 DKIM selectors, strict RFC 7489 DMARC syntax, authoritative NS/SOA drift, MX redundancy, BIMI, MTA-STS, and 5 DNSBL blacklists.<br>
+💡 <b>Open-source alternative to EasyDMARC & MxToolbox</b></sub>
 </td>
 </tr>
 </table>
