@@ -132,6 +132,15 @@ Chat with language models, run local AI assistants, and ask questions about your
 
 <table>
 <tr>
+<td width="64" align="center"><img src="https://freeimagetovideo.ai/logo.png" width="48" height="48" alt="Free Image to Video logo"><br>
+<img src="https://img.shields.io/github/stars/hanshs474/fitv-video-starter?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/hanshs474/fitv-video-starter">Free Image to Video Starter</a></strong> (<a href="https://freeimagetovideo.ai/">Website</a>)<br>
+<sub>Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark. Includes hosted MCP server and Dokploy blueprint.<br>
+💡 <b>Open-source starter &amp; MCP adapter for AI image-to-video generation</b></sub>
+</td>
+</tr>
+<tr>
 <td width="64" align="center"><img src="https://avatars.githubusercontent.com/u/158137808?v=4" width="48" height="48" alt="Open WebUI logo"><br>
 <img src="https://img.shields.io/github/stars/open-webui/open-webui?style=flat-square&label=%E2%AD%90" alt="stars"></td>
 <td>
