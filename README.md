@@ -83,7 +83,7 @@ Projects organized by category.
 
 - [📹 Team Chat & Video Conferencing](#team-chat-video-conferencing) (4)
 - [📋 Project Management](#project-management) (3)
-- [📚 Knowledge Bases & Documentation](#knowledge-bases-documentation) (3)
+- [📚 Knowledge Bases & Documentation](#knowledge-bases-documentation) (4)
 - [🗒️ Notes & Personal Productivity](#notes-personal-productivity) (3)
 - [⏱️ Time Tracking](#time-tracking) (2)
 - [📅 Appointment Scheduling](#appointment-scheduling) (1)
@@ -1038,6 +1038,15 @@ Publish documentation, maintain team wikis, and organize shared knowledge.
 <strong><a href="https://github.com/facebook/docusaurus">Docusaurus</a></strong><br>
 <sub>Docusaurus is an open-source framework for building documentation websites quickly and efficiently.<br>
 💡 <b>Open-source alternative to GitBook & ReadMe</b></sub>
+</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="https://avatars.githubusercontent.com/u/78728988?v=4" width="48" height="48" alt="AFFiNE logo"><br>
+<img src="https://img.shields.io/github/stars/toeverything/AFFiNE?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/toeverything/AFFiNE">AFFiNE</a></strong><br>
+<sub>An open-source knowledge base that combines docs, whiteboards and databases in one workspace, and a self-hostable alternative to Notion.<br>
+💡 <b>Open-source alternative to Notion & Confluence</b></sub>
 </td>
 </tr>
 </table>
